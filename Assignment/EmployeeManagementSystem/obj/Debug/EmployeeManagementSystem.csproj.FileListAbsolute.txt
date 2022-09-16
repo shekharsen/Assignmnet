@@ -1,0 +1,10 @@
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\bin\Debug\Litware_Lib.dll
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\bin\Debug\Litware_Lib.pdb
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csprojAssemblyReference.cache
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CopyComplete
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\shekhar sen\source\repos\Assignment\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb

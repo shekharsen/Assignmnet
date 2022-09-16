@@ -1,0 +1,6 @@
+C:\Users\shekhar sen\source\repos\Assignment\Litware_Lib\bin\Debug\Litware_Lib.dll
+C:\Users\shekhar sen\source\repos\Assignment\Litware_Lib\bin\Debug\Litware_Lib.pdb
+C:\Users\shekhar sen\source\repos\Assignment\Litware_Lib\obj\Debug\Litware_Lib.csprojAssemblyReference.cache
+C:\Users\shekhar sen\source\repos\Assignment\Litware_Lib\obj\Debug\Litware_Lib.csproj.CoreCompileInputs.cache
+C:\Users\shekhar sen\source\repos\Assignment\Litware_Lib\obj\Debug\Litware_Lib.dll
+C:\Users\shekhar sen\source\repos\Assignment\Litware_Lib\obj\Debug\Litware_Lib.pdb
